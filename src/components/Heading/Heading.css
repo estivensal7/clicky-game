@@ -1,0 +1,11 @@
+.heading {
+	font-size: 80px;
+	font-family: 'Helvetica';
+	text-align: center;
+	color: white;
+	width: 100%;
+	padding: 50px;
+	background-color: #222;
+	margin: 0;
+	box-shadow: 1px 20px 33px -11px rgba(0,0,0,0.75);
+}

@@ -1,5 +1,6 @@
 //importing components
 import React from 'react';
+import './Main.css';
 
 //creating the main page layout 
 const Main = props => (
